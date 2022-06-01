@@ -79,6 +79,7 @@ class AuthCard extends StatefulWidget {
 }
 
 enum AuthMode { Login, SignUp }
+
 class _AuthCardState extends State<AuthCard>
     with SingleTickerProviderStateMixin {
   final GlobalKey<FormState> _formKey = GlobalKey();
