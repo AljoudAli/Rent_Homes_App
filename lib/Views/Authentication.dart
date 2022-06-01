@@ -73,7 +73,6 @@ class AuthScreen extends StatelessWidget {
     );
   }
 }
-
 class AuthCard extends StatefulWidget {
   @override
   _AuthCardState createState() => _AuthCardState();
