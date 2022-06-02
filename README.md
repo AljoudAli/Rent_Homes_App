@@ -1,6 +1,6 @@
 # Rent Homes
 
-A new Flutter application.
+A new Flutter application helps you to find rent homes easily.
 
 ## Getting Started
 
